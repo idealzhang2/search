@@ -1,0 +1,398 @@
+2017-05-23 21:11:29  [ main:0 ] - [ INFO ]  load data from question.xml
+2017-05-23 21:11:29  [ main:211 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛咒简介.xml
+2017-05-23 21:11:30  [ main:1125 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:35  [ main:5987 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-23 21:11:35  [ main:6024 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-23 21:11:35  [ main:6025 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-23 21:11:35  [ main:6029 ] - [ DEBUG ]  begin init dic !
+2017-05-23 21:11:35  [ main:6030 ] - [ INFO ]  path to stream library/default.dic
+2017-05-23 21:11:35  [ main:6030 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-23 21:11:36  [ main:6539 ] - [ INFO ]  init core library ok use time : 403
+2017-05-23 21:11:36  [ main:6968 ] - [ INFO ]  init ngram ok use time :415
+2017-05-23 21:11:37  [ main:7576 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛教名词.xml
+2017-05-23 21:11:37  [ main:7582 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:7738 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛教因果定律.xml
+2017-05-23 21:11:37  [ main:7740 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:7776 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛教基础教义.xml
+2017-05-23 21:11:37  [ main:7779 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:7806 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛教基础知识.xml
+2017-05-23 21:11:37  [ main:7808 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:7894 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\佛经简介.xml
+2017-05-23 21:11:37  [ main:7899 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:8106 ] - [ INFO ]  load data from filepath: src\main\resources\frequently_asked_questions\宗教简介.xml
+2017-05-23 21:11:37  [ main:8108 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:37  [ main:8191 ] - [ INFO ]  load data from filepath: src\main\resources\textbook\佛光教科书.xml
+2017-05-23 21:11:37  [ main:8211 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:38  [ main:9185 ] - [ INFO ]  load data from filepath: src\main\resources\textbook\佛学基础书籍.xml
+2017-05-23 21:11:38  [ main:9213 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:41  [ main:12154 ] - [ INFO ]  load data from filepath: src\main\resources\textbook\佛学教科书.xml
+2017-05-23 21:11:41  [ main:12164 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:42  [ main:12884 ] - [ INFO ]  load data from filepath: src\main\resources\textbook\佛学课本.xml
+2017-05-23 21:11:42  [ main:12905 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:44  [ main:14973 ] - [ INFO ]  load data from filepath: src\main\resources\textbook\基础课本选读.xml
+2017-05-23 21:11:44  [ main:14988 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:47  [ main:17843 ] - [ INFO ]  load data from filepath: src\main\resources\wiki\wiki.xml
+2017-05-23 21:11:47  [ main:17948 ] - [ DEBUG ]  to create tokenizer {type=DIC}
+2017-05-23 21:11:49  [ main:20065 ] - [ INFO ]  term list size：23
+2017-05-23 21:11:49  [ main:20087 ] - [ INFO ]  descQuery term size23
+2017-05-23 21:11:49  [ main:20241 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:49  [ main:20267 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:49  [ main:20289 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:49  [ main:20309 ] - [ INFO ]  descQuery term size6
+2017-05-23 21:11:49  [ main:20323 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:49  [ main:20323 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:50  [ main:20507 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:50  [ main:20508 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:20516 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:50  [ main:20516 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:50  [ main:20830 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:50  [ main:20830 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:50  [ main:20830 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:50  [ main:20830 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:50  [ main:20831 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:50  [ main:20831 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:20854 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:50  [ main:20854 ] - [ INFO ]  term list size：10
+2017-05-23 21:11:50  [ main:20855 ] - [ INFO ]  descQuery term size10
+2017-05-23 21:11:50  [ main:20877 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:50  [ main:20893 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:50  [ main:20906 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:50  [ main:20919 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:50  [ main:20931 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:20931 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:50  [ main:21083 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:50  [ main:21083 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:21083 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:50  [ main:21084 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:50  [ main:21183 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:50  [ main:21184 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:50  [ main:21184 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:50  [ main:21184 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:50  [ main:21184 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:50  [ main:21184 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:21184 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:50  [ main:21185 ] - [ INFO ]  term list size：6
+2017-05-23 21:11:50  [ main:21185 ] - [ INFO ]  descQuery term size6
+2017-05-23 21:11:50  [ main:21211 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:50  [ main:21232 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:50  [ main:21248 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:50  [ main:21268 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:50  [ main:21286 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:50  [ main:21286 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:51  [ main:21457 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:51  [ main:21457 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:21457 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:51  [ main:21458 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:51  [ main:21629 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:51  [ main:21629 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:51  [ main:21629 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:51  [ main:21629 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:51  [ main:21629 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:51  [ main:21630 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:21630 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:51  [ main:21630 ] - [ INFO ]  term list size：9
+2017-05-23 21:11:51  [ main:21630 ] - [ INFO ]  descQuery term size9
+2017-05-23 21:11:51  [ main:21648 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:51  [ main:21657 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:51  [ main:21668 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:51  [ main:21681 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:51  [ main:21693 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:21693 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:51  [ main:21955 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:51  [ main:21956 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:21956 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:51  [ main:21956 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:51  [ main:22034 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:51  [ main:22034 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:51  [ main:22034 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:51  [ main:22034 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:51  [ main:22035 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:51  [ main:22035 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:22035 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:51  [ main:22035 ] - [ INFO ]  term list size：36
+2017-05-23 21:11:51  [ main:22035 ] - [ INFO ]  descQuery term size36
+2017-05-23 21:11:51  [ main:22068 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:51  [ main:22083 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:51  [ main:22096 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:51  [ main:22111 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:51  [ main:22129 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:51  [ main:22129 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:52  [ main:22440 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:52  [ main:22440 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:52  [ main:22440 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:52  [ main:22440 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:52  [ main:22911 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:52  [ main:22911 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:52  [ main:22911 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:52  [ main:22911 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:52  [ main:22912 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:52  [ main:22912 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:52  [ main:22912 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:52  [ main:22912 ] - [ INFO ]  term list size：14
+2017-05-23 21:11:52  [ main:22912 ] - [ INFO ]  descQuery term size14
+2017-05-23 21:11:52  [ main:22942 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:52  [ main:22953 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:52  [ main:22962 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:52  [ main:22973 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:52  [ main:22986 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:52  [ main:22986 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:52  [ main:23285 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:52  [ main:23285 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:52  [ main:23286 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:52  [ main:23286 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:53  [ main:23401 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:53  [ main:23401 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:53  [ main:23402 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:53  [ main:23402 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:53  [ main:23402 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:53  [ main:23402 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:23402 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:53  [ main:23402 ] - [ INFO ]  term list size：24
+2017-05-23 21:11:53  [ main:23403 ] - [ INFO ]  descQuery term size24
+2017-05-23 21:11:53  [ main:23426 ] - [ INFO ]  descQuery term size13
+2017-05-23 21:11:53  [ main:23445 ] - [ INFO ]  descQuery term size15
+2017-05-23 21:11:53  [ main:23457 ] - [ INFO ]  descQuery term size14
+2017-05-23 21:11:53  [ main:23470 ] - [ INFO ]  descQuery term size12
+2017-05-23 21:11:53  [ main:23486 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:23486 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:53  [ main:23683 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:53  [ main:23684 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:23684 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:53  [ main:23684 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:53  [ main:23962 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:53  [ main:23962 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:53  [ main:23962 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:53  [ main:23962 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:53  [ main:23962 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:53  [ main:23963 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:23963 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:53  [ main:23963 ] - [ INFO ]  term list size：7
+2017-05-23 21:11:53  [ main:23963 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:53  [ main:23980 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:53  [ main:23989 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:53  [ main:23998 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:53  [ main:24011 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:53  [ main:24015 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:24015 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:53  [ main:24209 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:53  [ main:24210 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:24210 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:53  [ main:24210 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:53  [ main:24249 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:53  [ main:24250 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:53  [ main:24250 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:53  [ main:24250 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:53  [ main:24250 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:53  [ main:24250 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:24250 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:53  [ main:24251 ] - [ INFO ]  term list size：16
+2017-05-23 21:11:53  [ main:24251 ] - [ INFO ]  descQuery term size16
+2017-05-23 21:11:53  [ main:24269 ] - [ INFO ]  descQuery term size8
+2017-05-23 21:11:53  [ main:24276 ] - [ INFO ]  descQuery term size8
+2017-05-23 21:11:53  [ main:24284 ] - [ INFO ]  descQuery term size8
+2017-05-23 21:11:53  [ main:24291 ] - [ INFO ]  descQuery term size8
+2017-05-23 21:11:53  [ main:24306 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:53  [ main:24306 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:54  [ main:24532 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:54  [ main:24533 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:24533 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:54  [ main:24533 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:54  [ main:24694 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:54  [ main:24694 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:54  [ main:24695 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:54  [ main:24695 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:54  [ main:24695 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:54  [ main:24695 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:24695 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:54  [ main:24695 ] - [ INFO ]  term list size：9
+2017-05-23 21:11:54  [ main:24695 ] - [ INFO ]  descQuery term size9
+2017-05-23 21:11:54  [ main:24715 ] - [ INFO ]  descQuery term size16
+2017-05-23 21:11:54  [ main:24728 ] - [ INFO ]  descQuery term size20
+2017-05-23 21:11:54  [ main:24749 ] - [ INFO ]  descQuery term size26
+2017-05-23 21:11:54  [ main:24772 ] - [ INFO ]  descQuery term size9
+2017-05-23 21:11:54  [ main:24791 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:24792 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:54  [ main:24949 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:54  [ main:24949 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:24949 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:54  [ main:24949 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:54  [ main:25034 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:54  [ main:25034 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:54  [ main:25034 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:54  [ main:25034 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:54  [ main:25034 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:54  [ main:25035 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:25035 ] - [ INFO ]  negative test: true
+2017-05-23 21:11:54  [ main:25035 ] - [ INFO ]  term list size：31
+2017-05-23 21:11:54  [ main:25035 ] - [ INFO ]  descQuery term size31
+2017-05-23 21:11:54  [ main:25053 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:54  [ main:25063 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:54  [ main:25075 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:54  [ main:25087 ] - [ INFO ]  descQuery term size6
+2017-05-23 21:11:54  [ main:25098 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:25098 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:54  [ main:25308 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:54  [ main:25308 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:54  [ main:25308 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:54  [ main:25308 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:55  [ main:25651 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:55  [ main:25651 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:55  [ main:25651 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:55  [ main:25651 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:55  [ main:25652 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:55  [ main:25652 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:55  [ main:25652 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:55  [ main:25652 ] - [ INFO ]  term list size：22
+2017-05-23 21:11:55  [ main:25653 ] - [ INFO ]  descQuery term size22
+2017-05-23 21:11:55  [ main:25672 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:55  [ main:25680 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:55  [ main:25688 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:55  [ main:25700 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:55  [ main:25711 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:55  [ main:25711 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:55  [ main:25989 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:55  [ main:25990 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:55  [ main:25990 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:55  [ main:25990 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:55  [ main:26211 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:55  [ main:26212 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:55  [ main:26212 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:55  [ main:26212 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:55  [ main:26212 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:55  [ main:26212 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:55  [ main:26212 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:55  [ main:26212 ] - [ INFO ]  term list size：7
+2017-05-23 21:11:55  [ main:26213 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:55  [ main:26230 ] - [ INFO ]  descQuery term size10
+2017-05-23 21:11:55  [ main:26236 ] - [ INFO ]  descQuery term size9
+2017-05-23 21:11:55  [ main:26240 ] - [ INFO ]  descQuery term size9
+2017-05-23 21:11:55  [ main:26246 ] - [ INFO ]  descQuery term size10
+2017-05-23 21:11:55  [ main:26251 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:55  [ main:26252 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:56  [ main:26394 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:56  [ main:26394 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26395 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:56  [ main:26395 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:56  [ main:26439 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:56  [ main:26439 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:56  [ main:26439 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:56  [ main:26439 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:56  [ main:26440 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:56  [ main:26440 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26440 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:56  [ main:26440 ] - [ INFO ]  term list size：6
+2017-05-23 21:11:56  [ main:26440 ] - [ INFO ]  descQuery term size6
+2017-05-23 21:11:56  [ main:26449 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:56  [ main:26456 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:56  [ main:26462 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:56  [ main:26467 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:56  [ main:26478 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26478 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:56  [ main:26580 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:56  [ main:26581 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26581 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:56  [ main:26581 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:56  [ main:26606 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:56  [ main:26606 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  term list size：15
+2017-05-23 21:11:56  [ main:26606 ] - [ INFO ]  descQuery term size15
+2017-05-23 21:11:56  [ main:26619 ] - [ INFO ]  descQuery term size8
+2017-05-23 21:11:56  [ main:26626 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:56  [ main:26637 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:56  [ main:26642 ] - [ INFO ]  descQuery term size5
+2017-05-23 21:11:56  [ main:26650 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26650 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:56  [ main:26805 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:56  [ main:26805 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26805 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:56  [ main:26805 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:56  [ main:26920 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:56  [ main:26921 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:56  [ main:26921 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  term list size：12
+2017-05-23 21:11:56  [ main:26921 ] - [ INFO ]  descQuery term size12
+2017-05-23 21:11:56  [ main:26935 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:56  [ main:26936 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:56  [ main:26939 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:56  [ main:26942 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:56  [ main:26947 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:26947 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:56  [ main:27131 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:56  [ main:27131 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:27131 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:56  [ main:27131 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:56  [ main:27212 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:56  [ main:27212 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:56  [ main:27212 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:56  [ main:27212 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:56  [ main:27213 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:56  [ main:27213 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:27213 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:56  [ main:27213 ] - [ INFO ]  term list size：11
+2017-05-23 21:11:56  [ main:27213 ] - [ INFO ]  descQuery term size11
+2017-05-23 21:11:56  [ main:27225 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:56  [ main:27235 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:56  [ main:27243 ] - [ INFO ]  descQuery term size4
+2017-05-23 21:11:56  [ main:27250 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:56  [ main:27255 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:56  [ main:27255 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:57  [ main:27417 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:57  [ main:27417 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:27417 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:57  [ main:27417 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:57  [ main:27481 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:57  [ main:27482 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:57  [ main:27482 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  negative test: true
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  term list size：34
+2017-05-23 21:11:57  [ main:27482 ] - [ INFO ]  descQuery term size34
+2017-05-23 21:11:57  [ main:27498 ] - [ INFO ]  descQuery term size13
+2017-05-23 21:11:57  [ main:27500 ] - [ INFO ]  descQuery term size13
+2017-05-23 21:11:57  [ main:27502 ] - [ INFO ]  descQuery term size13
+2017-05-23 21:11:57  [ main:27504 ] - [ INFO ]  descQuery term size12
+2017-05-23 21:11:57  [ main:27505 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:27505 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:57  [ main:27700 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:57  [ main:27700 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:27701 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:57  [ main:27701 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:57  [ main:28136 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:57  [ main:28136 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:57  [ main:28136 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:57  [ main:28136 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:57  [ main:28136 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:57  [ main:28137 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:28137 ] - [ INFO ]  negative test: false
+2017-05-23 21:11:57  [ main:28137 ] - [ INFO ]  term list size：7
+2017-05-23 21:11:57  [ main:28137 ] - [ INFO ]  descQuery term size7
+2017-05-23 21:11:57  [ main:28146 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:57  [ main:28153 ] - [ INFO ]  descQuery term size1
+2017-05-23 21:11:57  [ main:28154 ] - [ INFO ]  descQuery term size2
+2017-05-23 21:11:57  [ main:28160 ] - [ INFO ]  descQuery term size3
+2017-05-23 21:11:57  [ main:28167 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:28167 ] - [ DEBUG ]  词频评分开始
+2017-05-23 21:11:57  [ main:28273 ] - [ DEBUG ]  词频分析结束
+2017-05-23 21:11:57  [ main:28273 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:28273 ] - [ DEBUG ]  ***************
+2017-05-23 21:11:57  [ main:28273 ] - [ DEBUG ]  文本对齐评分
+2017-05-23 21:11:57  [ main:28300 ] - [ INFO ]  选项0: 0.0
+2017-05-23 21:11:57  [ main:28300 ] - [ INFO ]  选项1: 0.0
+2017-05-23 21:11:57  [ main:28301 ] - [ INFO ]  选项2: 0.0
+2017-05-23 21:11:57  [ main:28301 ] - [ INFO ]  选项3: 0.0
+2017-05-23 21:11:57  [ main:28301 ] - [ DEBUG ]  文本对齐评分结束
+2017-05-23 21:11:57  [ main:28301 ] - [ DEBUG ]  ***********************
+2017-05-23 21:11:57  [ main:28301 ] - [ INFO ]  negative test: true
+2017-05-23 21:11:57  [ main:28301 ] - [ INFO ]  可以回答的问题有：
+2017-05-23 21:11:57  [ main:28301 ] - [ INFO ]  系统准确率：
